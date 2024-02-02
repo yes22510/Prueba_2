@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab1_EverYes\Sumador_Prueba1\Prueba_2\Prueba_2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab1_EverYes\Sumador_Prueba1\Prueba_2\Prueba_2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab1_EverYes\Sumador_Prueba1\Prueba_2\Prueba_2\Debug\Prueba_2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Prueba_2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Prueba_2.map</FILE>
+  <FILE>Prueba_2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab1_EverYes\Sumador_Prueba1\Prueba_2\Prueba_2\main.asm</FILE><LINE>28</LINE></SETUP>
+  <read_sw><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab1_EverYes\Sumador_Prueba1\Prueba_2\Prueba_2\main.asm</FILE><LINE>41</LINE></read_sw>
+  <reset><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab1_EverYes\Sumador_Prueba1\Prueba_2\Prueba_2\main.asm</FILE><LINE>79</LINE></reset>
+  <ascendente><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab1_EverYes\Sumador_Prueba1\Prueba_2\Prueba_2\main.asm</FILE><LINE>83</LINE></ascendente>
+  <descendente><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab1_EverYes\Sumador_Prueba1\Prueba_2\Prueba_2\main.asm</FILE><LINE>90</LINE></descendente>
+  <ascendente2><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab1_EverYes\Sumador_Prueba1\Prueba_2\Prueba_2\main.asm</FILE><LINE>97</LINE></ascendente2>
+  <descendente2><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab1_EverYes\Sumador_Prueba1\Prueba_2\Prueba_2\main.asm</FILE><LINE>104</LINE></descendente2>
+  <Suma><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab1_EverYes\Sumador_Prueba1\Prueba_2\Prueba_2\main.asm</FILE><LINE>110</LINE></Suma>
+  <stop><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab1_EverYes\Sumador_Prueba1\Prueba_2\Prueba_2\main.asm</FILE><LINE>116</LINE></stop>
+  <delay><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab1_EverYes\Sumador_Prueba1\Prueba_2\Prueba_2\main.asm</FILE><LINE>119</LINE></delay>
+  <ANT0><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab1_EverYes\Sumador_Prueba1\Prueba_2\Prueba_2\main.asm</FILE><LINE>122</LINE></ANT0>
+  <ANT1><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab1_EverYes\Sumador_Prueba1\Prueba_2\Prueba_2\main.asm</FILE><LINE>126</LINE></ANT1>
+  <ANT2><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab1_EverYes\Sumador_Prueba1\Prueba_2\Prueba_2\main.asm</FILE><LINE>129</LINE></ANT2>
+ </LABELS>
+</ASSEMBLER_INFO>
