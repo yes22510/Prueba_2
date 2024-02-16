@@ -1,19 +1,19 @@
 <ASSEMBLER_INFO>
  <VERSION>2.2.8</VERSION>
  <DEVICE>"ATmega328P"</DEVICE>
- <WORKING_DIR>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab2_EverYes\Postlab\Postlab_Prueba1\Postlab_Prueba1\Debug</WORKING_DIR>
+ <WORKING_DIR>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab3\Postlab_Prueba1\Postlab_Prueba1\Postlab_Prueba1\Debug</WORKING_DIR>
  <INCLUDE_PATH>
   <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
   <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
   <DIR></DIR>
  </INCLUDE_PATH>
- <SOURCE_FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab2_EverYes\Postlab\Postlab_Prueba1\Postlab_Prueba1\main.asm</SOURCE_FILE>
+ <SOURCE_FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab3\Postlab_Prueba1\Postlab_Prueba1\Postlab_Prueba1\main.asm</SOURCE_FILE>
  <INCLUDED_FILES>
   <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
   <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
  </INCLUDED_FILES>
  <OBJECT_FILES>
-  <FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab2_EverYes\Postlab\Postlab_Prueba1\Postlab_Prueba1\Debug\Postlab_Prueba1.obj</FILE>
+  <FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab3\Postlab_Prueba1\Postlab_Prueba1\Postlab_Prueba1\Debug\Postlab_Prueba1.obj</FILE>
  </OBJECT_FILES>
  <HEX_FILES>
   <FILE>Postlab_Prueba1.hex</FILE>
@@ -23,24 +23,26 @@
   <FILE>Postlab_Prueba1.lss</FILE>
  </OUTPUT_FILES>
  <LABELS>
-  <TABLA7SEG><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab2_EverYes\Postlab\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>28</LINE></TABLA7SEG>
-  <SETUP><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab2_EverYes\Postlab\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>32</LINE></SETUP>
-  <Timer0><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab2_EverYes\Postlab\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>48</LINE></Timer0>
-  <VerificacionB><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab2_EverYes\Postlab\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>56</LINE></VerificacionB>
-  <Incremento7seg><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab2_EverYes\Postlab\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>123</LINE></Incremento7seg>
-  <Decremento7seg><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab2_EverYes\Postlab\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>136</LINE></Decremento7seg>
-  <EncenLuc><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab2_EverYes\Postlab\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>69</LINE></EncenLuc>
-  <ContT><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab2_EverYes\Postlab\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>96</LINE></ContT>
-  <Salto3><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab2_EverYes\Postlab\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>116</LINE></Salto3>
-  <LedO><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab2_EverYes\Postlab\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>108</LINE></LedO>
-  <Salto5><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab2_EverYes\Postlab\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>113</LINE></Salto5>
-  <Vres><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab2_EverYes\Postlab\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>120</LINE></Vres>
-  <Salto><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab2_EverYes\Postlab\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>130</LINE></Salto>
-  <delay><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab2_EverYes\Postlab\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>150</LINE></delay>
-  <stop><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab2_EverYes\Postlab\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>147</LINE></stop>
-  <ANT0><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab2_EverYes\Postlab\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>153</LINE></ANT0>
-  <ANT1><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab2_EverYes\Postlab\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>157</LINE></ANT1>
-  <ANT2><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab2_EverYes\Postlab\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>160</LINE></ANT2>
-  <Reset><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab2_EverYes\Postlab\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>169</LINE></Reset>
+  <MAIN><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab3\Postlab_Prueba1\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>22</LINE></MAIN>
+  <ISR_PCINT0><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab3\Postlab_Prueba1\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>208</LINE></ISR_PCINT0>
+  <ISR_TIMER_OVF><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab3\Postlab_Prueba1\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>188</LINE></ISR_TIMER_OVF>
+  <TABLA7SEG><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab3\Postlab_Prueba1\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>33</LINE></TABLA7SEG>
+  <SETUP><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab3\Postlab_Prueba1\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>37</LINE></SETUP>
+  <Timer0><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab3\Postlab_Prueba1\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>83</LINE></Timer0>
+  <LOOP><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab3\Postlab_Prueba1\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>111</LINE></LOOP>
+  <REINICIOU><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab3\Postlab_Prueba1\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>100</LINE></REINICIOU>
+  <REINICIOMS><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab3\Postlab_Prueba1\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>106</LINE></REINICIOMS>
+  <Mult7seg><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab3\Postlab_Prueba1\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>153</LINE></Mult7seg>
+  <VD7seg><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab3\Postlab_Prueba1\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>123</LINE></VD7seg>
+  <VU7SEG><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab3\Postlab_Prueba1\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>137</LINE></VU7SEG>
+  <LimiteD><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab3\Postlab_Prueba1\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>147</LINE></LimiteD>
+  <REINICIO7SEG><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab3\Postlab_Prueba1\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>177</LINE></REINICIO7SEG>
+  <D1><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab3\Postlab_Prueba1\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>156</LINE></D1>
+  <D2><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab3\Postlab_Prueba1\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>161</LINE></D2>
+  <D3><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab3\Postlab_Prueba1\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>165</LINE></D3>
+  <D4><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab3\Postlab_Prueba1\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>169</LINE></D4>
+  <fin_interrupcion2><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab3\Postlab_Prueba1\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>198</LINE></fin_interrupcion2>
+  <BOTON2><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab3\Postlab_Prueba1\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>225</LINE></BOTON2>
+  <Fin_interrupcion><FILE>C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab3\Postlab_Prueba1\Postlab_Prueba1\Postlab_Prueba1\main.asm</FILE><LINE>232</LINE></Fin_interrupcion>
  </LABELS>
 </ASSEMBLER_INFO>

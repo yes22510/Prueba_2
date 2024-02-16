@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.2.8  C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab2_EverYes\Postlab\Postlab_Prueba1\Postlab_Prueba1\main.asm Tue Feb 06 18:22:59 2024
+AVRASM ver. 2.2.8  C:\Users\yesev\Downloads\Universidad\ProgramacionMicro\Lab3\Postlab_Prueba1\Postlab_Prueba1\Postlab_Prueba1\main.asm Thu Feb 15 19:55:22 2024
 
 
 EQU  SIGNATURE_000 0000001e
@@ -695,22 +695,24 @@ EQU  ACIaddr      0000002e
 EQU  TWIaddr      00000030
 EQU  SPMRaddr     00000032
 EQU  INT_VECTORS_SIZE 00000034
-CSEG TABLA7SEG    00000004
-CSEG SETUP        0000000c
-CSEG Timer0       0000001b
-CSEG VerificacionB 00000020
-CSEG Incremento7seg 00000053
-CSEG Decremento7seg 0000005b
-CSEG EncenLuc     00000028
-CSEG ContT        0000003f
-CSEG Salto3       00000050
-CSEG LedO         0000004a
-CSEG Salto5       0000004e
-CSEG Vres         00000051
-CSEG Salto        00000058
-CSEG delay        00000065
-CSEG stop         00000064
-CSEG ANT0         00000066
-CSEG ANT1         00000067
-CSEG ANT2         00000068
-CSEG Reset        00000070
+CSEG MAIN         00000022
+CSEG ISR_PCINT0   0000009d
+CSEG ISR_TIMER_OVF 00000092
+CSEG TABLA7SEG    00000026
+CSEG SETUP        0000002b
+CSEG Timer0       0000004b
+CSEG LOOP         0000005e
+CSEG REINICIOU    00000056
+CSEG REINICIOMS   0000005a
+CSEG Mult7seg     0000007e
+CSEG VD7seg       00000068
+CSEG VU7SEG       00000073
+CSEG LimiteD      0000007a
+CSEG REINICIO7SEG 0000008b
+CSEG D1           0000007f
+CSEG D2           00000082
+CSEG D3           00000085
+CSEG D4           00000088
+CSEG fin_interrupcion2 00000099
+CSEG BOTON2       000000a7
+CSEG Fin_interrupcion 000000ab
